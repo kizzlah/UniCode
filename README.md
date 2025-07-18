@@ -2,21 +2,19 @@
 
 A powerful, AI-driven code conversion tool that automatically detects programming languages and provides intelligent conversion suggestions. Convert between 50+ programming languages, data formats, and markup languages with ease.
 
-![UniCode Demo](https://via.placeholder.com/800x400/1f2937/ffffff?text=UniCode+Demo)
+## Features
 
-## ✨ Features
+- ** Smart Language Detection**: Automatically detects 50+ programming languages
+- ** Instant Conversions**: Real-time code transformation with intelligent suggestions
+- ** Multi-Language Support**: JavaScript, TypeScript, Python, Java, C++, Rust, Go, PHP, Ruby, Swift, Kotlin, and more
+- ** Data Format Conversion**: JSON ↔ YAML ↔ XML ↔ TOML transformations
+- ** Web Technologies**: HTML ↔ JSX ↔ Vue, CSS ↔ SCSS ↔ Less
+- ** DevOps Tools**: Docker, Kubernetes, Terraform, Ansible configurations
+- ** Responsive Design**: Works seamlessly on desktop and mobile
+- ** Dark/Light Theme**: Toggle between themes for comfortable coding
+- ** Conversion History**: Track and restore previous conversions
 
-- **🔍 Smart Language Detection**: Automatically detects 50+ programming languages
-- **⚡ Instant Conversions**: Real-time code transformation with intelligent suggestions
-- **🎯 Multi-Language Support**: JavaScript, TypeScript, Python, Java, C++, Rust, Go, PHP, Ruby, Swift, Kotlin, and more
-- **📊 Data Format Conversion**: JSON ↔ YAML ↔ XML ↔ TOML transformations
-- **🎨 Web Technologies**: HTML ↔ JSX ↔ Vue, CSS ↔ SCSS ↔ Less
-- **🔧 DevOps Tools**: Docker, Kubernetes, Terraform, Ansible configurations
-- **📱 Responsive Design**: Works seamlessly on desktop and mobile
-- **🌙 Dark/Light Theme**: Toggle between themes for comfortable coding
-- **📝 Conversion History**: Track and restore previous conversions
-
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -82,7 +80,7 @@ npm run preview
 - Terraform → Ansible playbooks
 - CI/CD pipeline conversions
 
-## 🛠️ Development
+##  Development
 
 ### Project Structure
 
@@ -137,7 +135,7 @@ npm run format
 npm run type-check
 ```
 
-## 🧪 Testing
+## Testing
 
 The project includes comprehensive testing:
 
@@ -146,21 +144,21 @@ The project includes comprehensive testing:
 - **E2E Tests**: Browser automation testing
 - **Performance Tests**: Conversion speed and memory usage
 
-## 📈 Performance
+## Performance
 
 - **Fast Language Detection**: Optimized regex patterns for quick identification
 - **Efficient Conversions**: Streaming processing for large code files
 - **Memory Management**: Proper cleanup and garbage collection
 - **Caching**: Intelligent caching of conversion results
 
-## 🔒 Security
+## Security
 
 - **Input Sanitization**: All user input is properly validated and sanitized
 - **XSS Protection**: React's built-in XSS protection
 - **Content Security Policy**: Strict CSP headers in production
 - **No Code Execution**: Conversions are purely syntactic, no code execution
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -175,24 +173,23 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 7. Push to the branch (`git push origin feature/amazing-feature`)
 8. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 - Icons from [Lucide React](https://lucide.dev/)
 - Powered by [Vite](https://vitejs.dev/)
 
-## 📞 Support
+## Support
 
-- 📧 Email: support@unicode-converter.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/unicode-converter/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/unicode-converter/discussions)
+- Issues: [GitHub Issues](https://github.com/yourusername/unicode-converter/issues)
+- Discussions: [GitHub Discussions](https://github.com/yourusername/unicode-converter/discussions)
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] AI-powered code optimization suggestions
 - [ ] Plugin system for custom converters
